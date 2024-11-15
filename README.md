@@ -21,6 +21,7 @@ Welcome to my Python journey! This repository showcases my collection of Python 
 - 11.Coffee-Machine
 - 12.NATO-Alphabet-program
 - 13.Birthday-Wisher
+- 14.Maze-Solver
 
 ## 🛠️ Technologies Used
 - Python 3.x
