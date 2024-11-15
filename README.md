@@ -8,19 +8,19 @@ Welcome to my Python journey! This repository showcases my collection of Python 
 - Perfect for Python beginners and learning enthusiasts
 
 ## 🌟 Featured Projects
--1.Caesar_Cipher
--2.HangMan
--3.Blind_Auction
--4.Hard_PassWord_Generator
--5.Rock_Paper_Scissors
--6.RollerCoaster_Ticket_Machine
--7.Treasure_Island
--8.Calculator
--9.BlackJack_Game
--10.Followers_Higher_Lower_Game
--11.Coffee-Machine
--12.NATO-Alphabet-program
--13.Birthday-Wisher
+- 1.Caesar_Cipher
+- 2.HangMan
+- 3.Blind_Auction
+- 4.Hard_PassWord_Generator
+- 5.Rock_Paper_Scissors
+- 6.RollerCoaster_Ticket_Machine
+- 7.Treasure_Island
+- 8.Calculator
+- 9.BlackJack_Game
+- 10.Followers_Higher_Lower_Game
+- 11.Coffee-Machine
+- 12.NATO-Alphabet-program
+- 13.Birthday-Wisher
 
 ## 🛠️ Technologies Used
 - Python 3.x
