@@ -22,6 +22,7 @@ Welcome to my Python journey! This repository showcases my collection of Python 
 - 12.NATO-Alphabet-program
 - 13.Birthday-Wisher
 - 14.Maze-Solver
+- 15.SQUIRREL CENSUS
 
 ## 🛠️ Technologies Used
 - Python 3.x
