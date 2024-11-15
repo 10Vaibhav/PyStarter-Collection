@@ -3,4 +3,4 @@ Welcome to my Python journey! This repository showcases my collection of Python 
 
 
 ## LICENSE
-[MIT License] (LICENSE)
+[MIT License](LICENSE)
